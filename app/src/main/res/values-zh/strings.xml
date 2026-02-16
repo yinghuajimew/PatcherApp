@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Project Earth: Patcher</string>
+    <string name="app_name">Project Earth: 修补程序</string>
 
     <string name="activity_main_version">版本：%s (%d)</string>
     <string name="activity_main_patchable">是否可以修补：%s</string>
@@ -13,7 +13,7 @@
 
     <string name="activity_about_title">关于</string>
 
-    <string name="locator_server_title">Locator Server</string>
+    <string name="locator_server_title">定位服务器</string>
 
     <string name="about_about_title">关于</string>
     <string name="about_about_version">版本</string>
@@ -24,28 +24,28 @@
     <string name="about_links_website_title">网站</string>
     <string name="about_links_website_desc">项目主页</string>
 
-    <string name="about_credits_title">Credits</string>
-    <string name="about_credits_project_title">Project Earth Team</string>
+    <string name="about_credits_title">制作人员</string>
+    <string name="about_credits_project_title">Project Earth 团队</string>
     <string name="about_credits_project_desc">App开发</string>
 
     <string name="step_done">完成！</string>
     <string name="step_failed">失败</string>
 
-    <string name="step_download_title">Download patches</string>
-    <string name="step_download_removing">Removing existing patches...</string>
-    <string name="step_download_downloading">Downloading latest...</string>
-    <string name="step_download_extract">Extracting...</string>
-    <string name="step_download_found">Found patch: %s</string>
+    <string name="step_download_title">下载补丁</string>
+    <string name="step_download_removing">删除现有补丁...</string>
+    <string name="step_download_downloading">正在下载最新...</string>
+    <string name="step_download_extract">正在提取...</string>
+    <string name="step_download_found">找到补丁: %s</string>
 
-    <string name="step_decompile_title">Decompile</string>
+    <string name="step_decompile_title">反编译</string>
 
-    <string name="step_patch_title">Patch</string>
+    <string name="step_patch_title">修补</string>
 
-    <string name="step_recompile_title">Recompile</string>
+    <string name="step_recompile_title">重新编译</string>
 
-    <string name="step_sign_title">Sign</string>
-    <string name="step_sign_setup">Setting up...</string>
-    <string name="step_sign_signing">Signing...</string>
-    <string name="step_patch_server">Patching server address...</string>
-    <string name="step_patch_install">Installing: %s</string>
+    <string name="step_sign_title">签名</string>
+    <string name="step_sign_setup">正在设置...</string>
+    <string name="step_sign_signing">签名中...</string>
+    <string name="step_patch_server">正在修补服务器地址...</string>
+    <string name="step_patch_install">安装中: %s</string>
 </resources>
