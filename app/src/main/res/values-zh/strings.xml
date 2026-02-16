@@ -13,7 +13,7 @@
 
     <string name="activity_about_title">关于</string>
 
-    <string name="locator_server_title">定位服务器</string>
+    <string name="locator_server_title">定位服务器 (填写当前局域网内IP)</string>
 
     <string name="about_about_title">关于</string>
     <string name="about_about_version">版本</string>
