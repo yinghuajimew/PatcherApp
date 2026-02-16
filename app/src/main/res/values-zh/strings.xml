@@ -4,8 +4,8 @@
     <string name="activity_main_version">版本：%s (%d)</string>
     <string name="activity_main_patchable">是否可以修补：%s</string>
 
-    <string name="activity_installer_title">Installer</string>
-    <string name="activity_installer_install">Install</string>
+    <string name="activity_installer_title">安装程序</string>
+    <string name="activity_installer_install">安装</string>
     <string name="activity_installer_cancel_title">取消</string>
     <string name="activity_installer_cancel_message">确定要取消吗？</string>
 
